@@ -177,7 +177,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Varsayılan profil biyografisi.",
-      "value": "@AsenaUserBot",
+      "value": "@PolestarUserBot",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
