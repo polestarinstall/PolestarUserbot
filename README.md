@@ -7,7 +7,7 @@
     <br>
         <a href="https://github.com/poyraz190321/PolestarUserbot/blob/master/README.md#kurulum">Kurulum</a> |
         <a href="https://github.com/poyraz190321/PolestarUserbot/wiki/G%C3%BCncelleme">Güncelleme</a> |
-        <a href="https://t.me/AsenaUserBot">Telegram Kanal</a>
+        <a href="https://t.me/PolestarUserbot">Telegram Kanal</a>
     <br>
 </p>
 
