@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
  
-Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/polestarsupport) ulaşabilirsiniz.
+Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/PolestarSupport) ulaşabilirsiniz.
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
